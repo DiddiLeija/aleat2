@@ -1,4 +1,4 @@
-# Aleatoryous 1
+# Aleatoryous 2
 
 The second generation of Aleatoryous project.
 
