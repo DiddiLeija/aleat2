@@ -12,5 +12,7 @@ this reasons:
   - "CoinToBinary" function
 - _aleat3_ operations are easier and faster, and also much cleaner.
 
-We are only distributing versions 1 and 2 to record releases, but we only recommend
+Also in May 26th, 2021, this [aleat2](http://github.com/diddileija/aleat2) will be seriously deprecated
+
+We are only distributing versions 1 and 2 to record releases, but we strongly recommend
 the 3rth version of Aleatoryous.
